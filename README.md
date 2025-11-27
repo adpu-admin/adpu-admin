@@ -2,7 +2,7 @@
     <img src="https://adpu.edu.az/images/adpu_files/frontend_files/logo/android-chrome-100x100.png" width="110">
 </p>
 
-<h2 align="center">ADPU • Digital Solutions & Software Development</h2>
+<h2 align="center">ADPU • İnformasiya və kommunikasiya texnologiyaları mərkəzi</h2>
 
 <p align="center">
     Innovasiya, təhlükəsizlik və keyfiyyət üzərində qurulan texnoloji həllər.
