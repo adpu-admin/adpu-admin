@@ -12,7 +12,7 @@
 
 ## 🔹 Biz kimik?
 
-**ADPU Digital Solutions**, universitetin daxili və xarici ehtiyaclarını qarşılayan müasir texnoloji ekosistem qurmaq üçün fəaliyyət göstərən rəsmi IT və proqram təminatı inkişaf komandasıdır.
+**İnformasiya və kommunikasiya texnologiyaları mərkəzi**, universitetin daxili və xarici ehtiyaclarını qarşılayan müasir texnoloji ekosistem qurmaq üçün fəaliyyət göstərən rəsmi IT və proqram təminatı inkişaf komandasıdır.
 
 Məqsədimiz — **təhlükəsiz, dayanıqlı və yüksək performanslı** sistemlərin yaradılmasıdır.
 
@@ -30,9 +30,9 @@ Məqsədimiz — **təhlükəsiz, dayanıqlı və yüksək performanslı** siste
 
 ## 🛠️ Texnoloji Stack
 
-**Backend:** Laravel • PHP • Node.js • Python
-**Frontend:** Vue.js • React • Blade • TailwindCSS • Bootstrap
-**Database:** MySQL • PostgreSQL • Redis
+**Backend:** Laravel • PHP
+**Frontend:** Blade • Bootstrap
+**Database:** MySQL
 **DevOps:** Docker • CI/CD • Nginx • GitHub Actions
 
 ---
@@ -59,7 +59,7 @@ Məqsədimiz — **təhlükəsiz, dayanıqlı və yüksək performanslı** siste
 
 **ADPU – Azərbaycan Dövlət Pedaqoji Universiteti**
 🌍 [https://adpu.edu.az](https://adpu.edu.az)
-📧 [it@adpu.edu.az](mailto:it@adpu.edu.az)
+📧 [ikt.merkezi@adpu.edu.az](mailto:ikt.merkezi@adpu.edu.az)
 📍 Bakı, Azərbaycan
 
-<p align="center">© 2025 ADPU — Digital Solutions Department</p>
+<p align="center">© 2025 ADPU — İnformasiya və kommunikasiya texnologiyaları mərkəzi</p>
